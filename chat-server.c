@@ -59,13 +59,10 @@ int main(int argc, char *argv[])
     struct addrinfo hints, *res;
     int rc;
     struct sockaddr_in remote_sa;
-    struct sockaddr_in cliaddr, servaddr;
     uint16_t remote_port;
     socklen_t addrlen;
-    socklen_t clilen;
     char *remote_ip;
     char buf[BUF_SIZE];
-    int bytes_received;
     pthread_t threads[MAX_CLIENTS];
   	int i;
 

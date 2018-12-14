@@ -1,4 +1,4 @@
-CFLAGS=-g -Wall -o -pedantic
+CFLAGS=-g -Wall -pedantic
 
 .PHONY: all
 all: chat-server chat-client
