@@ -118,8 +118,6 @@ Working with this code provides hands-on experience in:
 - Message broadcasting and buffering.
 - Real-world considerations like resource cleanup and error handling.
 
-These are valuable skills for IT administrators who maintain and secure infrastructure.
-
 ---
 
 ## Security Considerations
