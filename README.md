@@ -1,7 +1,7 @@
 # C Chat Server and Client
 
 A simple multithreaded TCP chat server and client implemented in C.  
-This project illustrates fundamental concepts essential for **IT professionals and system administrators** managing networked environments.
+This project illustrates fundamental concepts essential for IT professionals and system administrators managing networked environments.
 
 ---
 
@@ -101,7 +101,7 @@ Example:
 
 This project can be applied to:
 
-- **Testing network connectivity** between servers and clients.
+- Testing network connectivity between servers and clients.
 - Simulating chat or alerting services on internal networks.
 - Practicing deployment and monitoring of network services.
 - Experimenting with multithreaded concurrency and resource management.
